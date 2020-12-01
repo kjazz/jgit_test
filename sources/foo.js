@@ -1,6 +1,6 @@
 
 var Person = function(first, last, middle) { //TODO
-    this.first = first; //TODO  
+    this.first = first; //TODO      
     this.middle = middle; 
     this.last = last; 
 };
