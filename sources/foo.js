@@ -1,5 +1,5 @@
 
-var Person = function(first, last, middle) { //TODO
+var Person1 = function(first, last, middle) { //TODO
     this.first = first; //TODO
     this.middle = middle; 
     this.last = last; 
